@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kuzeygh/abaplinted_sample.svg?branch=master)](https://travis-ci.org/sbcgua/abaplinted_sample)
+[![Build Status](https://travis-ci.org/kuzeygh/abaplinted_sample.svg?branch=master)](https://travis-ci.org/kuzeygh/abaplinted_sample)
 
 # Example of automatic abaplint execution via travis CI for ABAP project
 
